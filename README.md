@@ -7,7 +7,7 @@ Aquí va una **descripcion** del *repositorio*
 - elemento 2
 - elemento 3
 
-´´´
+```
 NUM = 10
 print("NUM vale=", NUM)
-´´´
+```
