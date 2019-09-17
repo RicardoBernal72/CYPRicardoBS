@@ -12,4 +12,9 @@ print(edad , estatura , nombre )
 
 print( str(edad) + str(estatura) + nombre )
 
+print("nombre")
 
+
+print("solo hay 10 tipos dea personas, las que saben binario y las que no",end="hfjfiwjdeg")
+print("linea extra, para complememtar el ejercicio")
+      
