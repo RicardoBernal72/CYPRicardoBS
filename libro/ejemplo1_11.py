@@ -1,2 +1,5 @@
-input("A, B, C, D")
+A=input("A")
+B=input("B")
+C=input("C")
+D=input("D")
 print(D, C, B, A, )
