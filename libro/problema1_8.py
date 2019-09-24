@@ -1,6 +1,0 @@
-X1=float(input("coordenada x del p1: "))
-Y1=float(input("coordenada y del p1: "))
-X2=float(input("coordenada x del p2: "))
-Y2=float(input("coordenada y del p2: "))
-D=((X1-X2)**2 +(Y1-Y2)**2)**(1/2)
-print(f"la distancia entre el p1 y el p2 es {D}unidades")
