@@ -1,8 +1,8 @@
-SUE=float(input("ingrese el sueldo del trabajador:$  "))
-AUM=SUE*0.15
-NSUE=SUE+AUM
-if SUE < 1000:
-    print(f"El trabajador tendra un amunto del 15%, siendo su nuevo sueldo :${NSUE}.")
-if SUE >= 1000:
-    print(f"Usted no tiene derecho a un aumento de sueldo")
+P=int(input("ingrese el numero p: "))
+Q=int(input("ingrese el numero q: "))
+EXP= (P**3 + Q**4 -2*P)
+if EXP < 680:
+    print("Se satisface la expresion")
+if EXP > 680:
+    print("FIN del Programa.")
 
