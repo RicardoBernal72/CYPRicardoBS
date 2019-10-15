@@ -1,0 +1,1 @@
+print("arquitectura de la computadora, repasar conceptos generales y de python, coparacion de tablas,compliadores, niveles de abstraccion, tipos de lenguaje,(alto y bajo nivel), arq von newman estructuras hasta for")
