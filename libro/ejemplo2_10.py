@@ -15,3 +15,5 @@ else:
             print(f"{B} > {A} > {C}")
         else:
             print(f"{B} > {C} > {A}")
+    else:
+        print(f"{C} > {}
