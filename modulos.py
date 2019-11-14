@@ -13,3 +13,5 @@ def restar (A,B):
 
 
 from asciistuff import Banner
+from string-color import *
+
